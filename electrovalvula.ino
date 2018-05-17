@@ -14,7 +14,7 @@ void loop()
    {
      digitalWrite(12, HIGH);   // set the LED on  
       Serial.println("Encendido");  
-      //hacer las acciones necesarias
+      //hacer las acciones necesarias necesarias
    }
    else if (humedad > 720) {
    
